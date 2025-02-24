@@ -269,3 +269,12 @@ Link: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/ES14-00402.1
 
 > Contributor: Arwenn
 
+---
+
+## Replicability is not Reproducibility: Nor is it Good Science (Drummond, 2009)
+
+The paper by Drummond (2009) argues that reproducibility and replicability are not the same and that replicability has been incorrectly referred to as reproducibility in literature. He states that reproducibility requires a change in methods or conditions. The results of the preceding research can then be corroborated and accepted by the scientific community if the results remain consistent with the changes.  In contrast, replicability avoids change and occurs when a study is reproduced exactly. Therefore, the idea that scientists should submit all necessary experimental artifacts needed to generate the results, with their paper, should be more appropriately referred to as replicability. Using the example of research on whether the speed of light is finite, Drummond explains that acquiring the full code or assuming that reproducibility should be exact will lead to a narrow understanding of scientific discoveries. He concludes that replicability is the weakest possible form of scientific reproduction, and that reproducibility does not require collecting the software and scripts (ie. replicating the experimental setup) used to obtain the experimental results published in papers.
+
+Drummond, C., 2009, June. Replicability is not reproducibility: nor is it good science. In Proceedings of the Evaluation Methods for Machine Learning Workshop at the 26th ICML (Vol. 1). Montreal, Canada: National Research Council of Canada.
+
+> Contributor: Rahima
